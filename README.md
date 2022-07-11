@@ -1,13 +1,12 @@
 
 <h1>👋 Hi, I’m Mamen</h1>
-
 <h2>About me</h2>
+<p>I love programming, drawing and writing. I have always been very aware of people with special educational needs. In 2008 I received the Entrepreneur award from the community of Madrid for my project, <a href="https://www.unifilomedia.net" target="_blank">Unifilomedia.</a></p>
 <ul>
   <li> 👀 I’m interested in web development.</li>
-  <li> 🌱 I’m currently learning html5, CSS, and Java Script.</li>
+  <li> 🌱 I’m currently learning html5, CSS, and JavaScript.</li>
   <li> 💞️ I’m looking for collaborating on web development projects.</li>
   <li> 📫 How to reach me. Well. You can send me a messagge through this channel.</li>
-  
  </ul>
 
 <!---
