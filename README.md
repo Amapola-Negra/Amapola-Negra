@@ -1,6 +1,6 @@
 
 <h1>👋 Hi, I’m Mamen</h1>
-<hr></hr>
+
 <h2>About me</h2>
 <ul>
   <li> 👀 I’m interested in web development.</li>
