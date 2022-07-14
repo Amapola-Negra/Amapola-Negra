@@ -44,8 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My files</h2>
 <a href="https://github.com/Amapola-Negra/MAMEN-COLLECTION-REPO">See my files</a>
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-  
