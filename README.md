@@ -14,7 +14,8 @@
 Amapola-Negra/Amapola-Negra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>Education</h2>
+<h2> Education</h2>
+:
 <ul>
   <li>Scrimba</li>
   <li>freeCodeCamp</li>
@@ -44,3 +45,4 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My files</h2>
 <a href="https://github.com/Amapola-Negra/MAMEN-COLLECTION-REPO">See my files</a>
+
