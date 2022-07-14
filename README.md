@@ -15,7 +15,6 @@ Amapola-Negra/Amapola-Negra is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h2> Education</h2>
-:
 <ul>
   <li>Scrimba</li>
   <li>freeCodeCamp</li>
