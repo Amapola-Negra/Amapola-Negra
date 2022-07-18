@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Education
 <p float="left">
-<img src="ESTUDIOS.png">
+<img src="ESTUDIOS.png" width="400px">
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="COMPETENCIAS.png"> 
+<img src="COMPETENCIAS.png" width="400px"> 
 </p>
 
 
