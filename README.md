@@ -16,32 +16,18 @@ Amapola-Negra/Amapola-Negra is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ## Education
-<ul>
-  <li>Scrimba</li>
-  <li>freeCodeCamp</li>
-  <li>Codewars</li>
-  <li>Self study and investigation</li>
-</ul>
-<h2>Languages</h2>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>AS</li>   
-</ul>
-<h3>Frameworks</h3>
-<ul>
-  <li>Bootstrap</li>
-  <li>Saas</li>
-</ul>
-<h2>Tools</h2>
-<ul>
-  <li>GitHub</li>
-</ul>
-<h2>Design</h2>
-<ul>
-  <li>Figma</li>
-</ul>
+<p float="left">
+<img src="ESTUDIOS.png">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="COMPETENCIAS.png"> 
+</p>
+
+
+### Certifications
+| FreeCodeCamp | Google Activate |
+| ------------- | ------------- |
+| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/responsive-web-design">Responsive Web Design</a>  | Contenido de la celda  |
+| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | Contenido de la celda  |
 
 <h2>My files</h2>
 <a href="https://github.com/Amapola-Negra/MAMEN-COLLECTION-REPO">See my files</a>
