@@ -29,6 +29,5 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/responsive-web-design">Responsive Web Design</a>  | <a href="Certificates/Curso de Productividad Personal en la Era Digital - certificado.pdf">Productividad personal en la era digital</a> |
 | <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | Contenido de la celda  |
 
-<h2>My files</h2>
-<a href="https://github.com/Amapola-Negra/MAMEN-COLLECTION-REPO">See my files</a>
+## Portfolio
 
