@@ -1,7 +1,8 @@
 
-<h1>👋 Hi, I’m Mamen</h1>
+# 👋 Hi, I’m Mamen
 <p align="center"><img src="BUSINESS-CARD.PNG"></p>
-<h2>About me</h2>
+
+## About me 
 <p>I love programming, drawing and writing. I have always been very aware of people with special educational needs. In 2008 I received the Entrepreneur award from the community of Madrid for my project, <a href="https://www.unifilomedia.net" target="_blank">Unifilomedia.</a></p>
 <ul>
   <li> 👀 I’m interested in web development.</li>
@@ -14,7 +15,7 @@
 Amapola-Negra/Amapola-Negra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2> Education</h2>
+## Education
 <ul>
   <li>Scrimba</li>
   <li>freeCodeCamp</li>
