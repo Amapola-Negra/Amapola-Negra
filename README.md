@@ -26,8 +26,9 @@ You can click the Preview link to take a look at your changes.
 ### Certifications
 | FreeCodeCamp | Google Activate |
 | ------------- | ------------- |
-| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/responsive-web-design">Responsive Web Design</a>  | <a href="Certificates/Curso de Productividad Personal en la Era Digital - certificado.pdf">Productividad personal en la era digital</a> |
-| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | Introducción al desarrollo web  |
+| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/responsive-web-design">Responsive Web Design</a>  | <a href="Certifications/Curso de Productividad Personal en la Era Digital - certificado.pdf">Productividad personal en la era digital</a> |
+| <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | <a href="Certifications/Curso de Introducción al Desarrollo Web_ HTML y CSS (1_2).pdf">Introducción al desarrollo web</a>
+  |             |  <a href="Certifications/DIPLOMA MÁRKETING DIGITAL.pdf">Márketing Digital</a>             |
 
 ## Portfolio
 <p align="center"><a href="https://amapola-negra.github.io/Portfolio/#profile"><img src="PARA-PORTFOLIO.PNG"></a></p>
