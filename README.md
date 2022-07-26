@@ -4,9 +4,8 @@
 
 ## About me 
 <p>I love programming, drawing and writing. I have always been very aware of people with special educational needs. In 2008 I received the Entrepreneur award from the community of Madrid for my project, <a href="https://www.unifilomedia.net" target="_blank">Unifilomedia.</a></p>
-<p>Committed to people with disabilities. I contributed to the edition for the promotion of services dedicated to low vision of the EBU</p>
-<a href="https://www.youtube.com/watch?v=NgXyK9dwrkc![image](https://user-images.githubusercontent.com/77289768/180998192-bd23790a-e25d-4c56-ae47-a0727a90f485.png)
-">See video</a>
+<p>Committed to people with disabilities. I contributed to the edition for the promotion of services dedicated to low vision of the EBU <a href="https://www.youtube.com/watch?v=NgXyK9dwrkc!">Promote low vision services</a></p>
+
 <ul>
   <li> 👀 I’m interested in web development.</li>
   <li> 🌱 I’m currently learning html5, CSS, and JavaScript.</li>
