@@ -32,10 +32,12 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a> | <a href="Certifications/Curso de Introducción al Desarrollo Web_ HTML y CSS (1_2).pdf">Introducción al desarrollo web</a>|<a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación 2005</a>|
   |             |  <a href="Certifications/DIPLOMA MÁRKETING DIGITAL.pdf">Márketing Digital</a>             ||<a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf">Lenguajes de programación 2004</a>|
 
-## Portfolio
-<p align="center"><a href="https://amapola-negra.github.io/MamenPortafolio-repo/#home><img src="PARA-PORTFOLIO.PNG"></a></p>
 
- ## Imaginary Portfolio
+## Portfolio
+<p align="center"><a href="https://amapola-negra.github.io/MamenPortafolio-repo/#home><img src="MAMEN-PORTFOLIO.PNG"></a></p>
+
+
+## Imaginary Portfolio
 <p align="center"><a href="https://amapola-negra.github.io/Portfolio/#profile"><img src="PARA-PORTFOLIO.PNG"></a></p>
 
 
