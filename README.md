@@ -10,7 +10,7 @@
   <li> 👀 I’m interested in web development.</li>
   <li> 🌱 I’m currently learning html5, CSS, and JavaScript.</li>
   <li> 💞️ I’m looking for collaborating on web development projects.</li>
-  <li> 📫 How to reach me. Well. You can send me a messagge through this channel.</li>
+  <li> 📫 How to reach me. Well. Mail me at carmentdeveloper@gmail.com.</li>
  </ul>
 
 <!---
