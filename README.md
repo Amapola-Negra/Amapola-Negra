@@ -36,13 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-
+## Portfolio 2024
+<p align="center"><a href="https://amapola-negra.github.io/MamenPortafolio-repo/#home"><img src="NUEVO-PORTFOLIO.PNG"></a></p>
 
 ## Portfolio
-<p align="center"><a href="https://amapola-negra.github.io/MamenPortafolio-repo/#home"><img src="MAMEN-PORTFOLIO.PNG"></a></p>
-
+<p align="center"><a href="https://nuevo-portafolio.netlify.app/"><img src="MAMEN-PORTFOLIO.PNG"></a></p>
 
 ## Imaginary Portfolio
 <p align="center"><a href="https://amapola-negra.github.io/Portfolio/#profile"><img src="PARA-PORTFOLIO.PNG"></a></p>
