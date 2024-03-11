@@ -36,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Certifications
 
-|               |               |
 | ------------- | ------------- |
 |<p><strong>2004 Comunidad de Madrid</strong> </p> <a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf" target="_blank">Lenguajes de programación (2004)</a>|<p><strong>2005 Comunidad de Madrid </strong></p><a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación (2005)</a>|
 
