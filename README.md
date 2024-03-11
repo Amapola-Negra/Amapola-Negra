@@ -3,7 +3,7 @@
 <p align="center"><img src="BUSINESS-CARD.PNG"></p>
 
 ## About me 
-<p>I love programming, drawing and writing. I have always been very aware of people with special educational needs. In 2008 I received the Entrepreneur award from the community of Madrid for my project, <a href="https://www.unifilomedia.net" target="_blank">Unifilomedia.</a></p>
+<p>I love programming, drawing and writing. I have always been very aware of people with special educational needs. In 2008 I received the <strong>Entrepreneur award</strong> from the community of Madrid for my project, <a href="https://www.unifilomedia.net" target="_blank">Unifilomedia.</a></p>
 <p>Committed to people with disabilities. I contributed to the edition for the promotion of services dedicated to low vision of the EBU <a href="https://www.youtube.com/watch?v=NgXyK9dwrkc!" target="_blank">Promote low vision services</a></p>
 
 <ul>
