@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 ### Certifications
 |               |               |
 | ------------- | ------------- |
-|<p><strong>2004 Comunidad de Madrid</strong>  <a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf" target="_blank">Lenguajes de programación (2004)</a></p>|<p><strong>2005 Comunidad de Madrid </strong></p><a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación (2005)</a>|
+|<p><strong>2004 Comunidad de Madrid</strong>  <a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf" target="_blank">Lenguajes de programación</a></p>|<p><strong>2005 Comunidad de Madrid </strong><a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación</a></p>|
 
 ## Portfolio 2024
 <p align="center"><a href="https://nuevo-portafolio.netlify.app/"><img src="NUEVO-PORTFOLIO.PNG"></a></p>
