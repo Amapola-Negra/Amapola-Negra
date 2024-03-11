@@ -34,8 +34,9 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures (2021)</a>|<a href="Certifications/Curso de Introducción al Desarrollo Web_ HTML y CSS (1_2).pdf" target="_blank">Introducción al desarrollo web (2017)</a>|<a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación (2005)</a>|<a href="https://scrimba.com/certificate/u4P49NAY/greact" target="_blank">Advanced React (2023)</a>|
 || <a href="Certifications/DIPLOMA MÁRKETING DIGITAL.pdf" target="_blank">Curso Básico de Marketing Digital (2017)</a>||<a href="https://scrimba.com/certificate/u4P49NAY/gfrontend" target="_blank">The Frontend Developer Career Path (2023)</a>|
 
+### Certifications
 
-||
+|               |               |
 | ------------- | ------------- |
 |<p><strong>2004 Comunidad de Madrid</strong> </p> <a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf" target="_blank">Lenguajes de programación (2004)</a>|<p><strong>2005 Comunidad de Madrid </strong></p><a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación (2005)</a>|
 
