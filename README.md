@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 |               |               |
 | ------------- | ------------- |
 |<p><strong>2004 Comunidad de Madrid</strong>  <a href="Certifications/LENGUAJE-PROGRAMACIÓN-2004.pdf" target="_blank">Lenguajes de programación</a></p>|<p><strong>2005 Comunidad de Madrid </strong><a href="Certifications/LENGUAJES-PROGRAMACIÓN-2005.pdf">Lenguajes de programación</a></p>|
-|<p><strong>2017 Google Activate</strong> <a href="Certifications/DIPLOMA MÁRKETING DIGITAL.pdf" target="_blank">Curso Básico de Marketing Digital</a></p>
+|<p><strong>2017 Google Activate</strong> <a href="Certifications/DIPLOMA MÁRKETING DIGITAL.pdf" target="_blank">Curso Básico de Marketing Digital</a></p>|<p><strong>2017 Google Activate <a href="Certifications/Curso de Introducción al Desarrollo Web_ HTML y CSS (1_2).pdf" target="_blank">Introducción al desarrollo web</a></p>
 
 ## Portfolio 2024
 <p align="center"><a href="https://nuevo-portafolio.netlify.app/"><img src="NUEVO-PORTFOLIO.PNG"></a></p>
