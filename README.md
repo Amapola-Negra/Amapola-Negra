@@ -1,5 +1,5 @@
 
-<p align="center">👋 Hi, I’m Mamen</p>
+<h1 align="center">👋 Hi, I’m Mamen</h1>
 <p align="center"><img src="BUSINESS-CARD.PNG"></p>
 
 <h3 align="center">Languages and Tools:</h3>
