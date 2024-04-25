@@ -1,6 +1,6 @@
 
-
-<p align="center"># 👋 Hi, I’m Mamen<img src="BUSINESS-CARD.PNG"></p>
+<p align="center">👋 Hi, I’m Mamen</p>
+<p align="center"><img src="BUSINESS-CARD.PNG"></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><img src="https://img.shields.io/badge/JavaScript-8A2BE2">
