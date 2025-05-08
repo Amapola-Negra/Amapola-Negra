@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 |<p><strong>2017 Google Activate</strong> <a href="Certifications/Curso de Productividad Personal en la Era Digital - certificado.pdf">Productividad personal en la era digital</a></p>|<p><strong>2021 FreeCodeCamp</strong> <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/responsive-web-design" target="_blank" text-align="center">Responsive Web Design</a></p>|
 |<p><strong>2021 FreeCodeCamp</strong> <a href="https://www.freecodecamp.org/certification/fcc6967a336-8a89-485b-b015-6105aa2dbfb7/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures</a></p>|<p><strong>2023 Scrimba</strong> <a href="https://scrimba.com/certificate/u4P49NAY/gjavascript" target="_blank">JavaScript Deep Dive</a></p>|
 |<p><strong>2023 Scrimba</strong> <a href="https://scrimba.com/certificate/u4P49NAY/greact" target="_blank">Advanced React</a></p>|<p><strong>2023 Scrimba</strong> <a href="https://scrimba.com/certificate/u4P49NAY/gfrontend" target="_blank">The Frontend Developer Career Path</a></p>|
-|<p><strong>2025 Scrimba</strong> <a href="Certifications/Advanced JavaScript.pdf" target="_blank">Advanced JavaScript</a></p>|
+|<p><strong>2025 Scrimba</strong> <a href="Certifications/Advanced JavaScript.pdf" target="_blank">Advanced JavaScript</a></p>||<p><strong>2025 Scrimba</strong> <a href="Certifications/Learn Modern JavaScript.pdf" target="_blank">Learn Modern JavaScript</a></p>|
 
 ## Portfolio 2024
 <p align="center"><a href="https://nuevo-portafolio.netlify.app/"><img src="NUEVO-PORTFOLIO.PNG"></a></p>
