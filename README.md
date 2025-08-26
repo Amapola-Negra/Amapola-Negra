@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 |<p><strong>2023 Scrimba</strong> <a href="https://scrimba.com/certificate/u4P49NAY/greact" target="_blank">Advanced React</a></p>|<p><strong>2023 Scrimba</strong> <a href="https://scrimba.com/certificate/u4P49NAY/gfrontend" target="_blank">The Frontend Developer Career Path</a></p>|
 |<p><strong>2025 Scrimba</strong> <a href="Certifications/Advanced JavaScript.pdf" target="_blank">Advanced JavaScript</a></p>|<p><strong>2025 Scrimba</strong> <a href="Certifications/Learn Modern JavaScript.pdf" target="_blank">Learn Modern JavaScript</a></p>
 |<p><strong>2025 Scrimba</strong> <a href="Certifications/The Tricky Parts of JavaScript.pdf" target="_blank">The Tricky Parts of JavaScript</a></p>|<p><strong>2025 Scrimba</strong> <a href="Certifications/JavaScript Interview Challenges.pdf" target="_blank">JavaScript Interview Challenges</a></p>|
-|<p><strong>2025 Scrimba</strong> <a href="Certifications/Introduction to Clean Code.pdf" target="_blank">Introduction to Clean Code</a></p>|
+|<p><strong>2025 Scrimba</strong> <a href="Certifications/Introduction to Clean Code.pdf" target="_blank">Introduction to Clean Code</a></p>|<p><strong>2025 Scrimba</strong> <a href="Certifications/Learn Accessible Web Design.pdf" target="_blank">Learn Accessible Web Design</a></p>|
 
 
 
